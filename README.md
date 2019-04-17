@@ -37,7 +37,7 @@ Before you open a pull request to add your device into our list of official devi
 For each new version, you need to upload the changelog to this repository in the device specific folder.
 
 The changelog file name must match the **.zip** file name and should end with **.txt**
-Eg: **.zip** is **Essential_platina-8.1.0-20180207-0418-OFFICIAL.zip**, changelog file name should be **Essential_platina-8.1.0-20180207-0418-OFFICIAL.txt**
+Eg: **.zip** is **Vortex-OS_platina-9.0-20180207-0418-OFFICIAL.zip**, changelog file name should be **Vortex-OS_platina-9.0-20180207-0418-OFFICIAL.zip.txt**
 
 ### 5. Over-the-air (OTA) updates
 Our system is automatic, you should not worry about updating some script, just upload the new build to the FTP server and send a pull request with the changelog and also edit your device JSON file (**builds/your_device_codename.json**) in this repository.
