@@ -1,6 +1,9 @@
->>>>>>Device Cahngelog<<<<<<<
-Device Side *Initial Build.
+>>>>>> Device Changelog <<<<<<<
+
+Device Side:
+*Initial Build.
 *Build With Kud Trees.
+
 >>>> ROM Changelong <<<<
 
 * April secutiry patch r35
@@ -112,8 +115,7 @@ Device Side *Initial Build.
 * VortexSettings: overlay: use vibration patterns from Pixel devices
 * Vortex: Switch to Lawnchair
 * Out own wallpaper
-* Add preference
-Accidental Touch
+* Add preference Accidental Touch
 * Settings: Squashed commit for Expanded Desktop
 * Settings: per-app cellular data and wifi restrictions
 * Battery stats: Display battery temperature
