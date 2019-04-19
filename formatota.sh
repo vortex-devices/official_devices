@@ -51,9 +51,8 @@ echo -e "${RED}         \x22maintainer\x22${NC}:${BLUE}\x22${MAINTAINER}\x22,";
 echo -e "${RED}         \x22maintainer_url\x22${NC}:${BLUE}\x22${MAINTAINER_URL}\x22,";
 echo -e "${RED}         \x22forum_url\x22${NC}:${BLUE}\x22${FORUM_URL}\x22";
 echo -e "${RED}}";
-echo -e "";
+echo -e "${NC}";
 if [[ $2 == *"h"* ]]; then
 echo -e "${RED}${BOLD}Pull latest official_devices repo,\npaste this output into official/devices/builds/${device}.json,\ncopy the changelog file out/target/product/${device}/${name}.txt to official_devices/changelogs/${device}/,\ncommit and PR";
-echo -e "";
-fi
 echo -e "${NC}";
+fi
