@@ -12,5 +12,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Zenfone Max Pro M1",
+      "brand":"Asus",
+      "codename":"X00T",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"KNdroid",
+            "maintainer_url":"https://t.me/kndroid",
+            "xda_thread":""
+         }
+      ]
    }
 ]

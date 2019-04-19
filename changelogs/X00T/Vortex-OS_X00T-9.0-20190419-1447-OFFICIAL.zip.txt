@@ -1,0 +1,119 @@
+>>>>>>Device Cahngelog<<<<<<<
+Device Side *Initial Build.
+*Build With Kud Trees.
+>>>> ROM Changelong <<<<
+
+* April secutiry patch r35
+* OTA Support
+* Allow user to add/remove QS with one click
+* Add battery styles
+* Fingerprint authentication vibration
+* Disable/Enable screenshot sound
+* Volume Rocker Wake
+* Volume key music control
+* Double tap to sleep on lockscreen
+* Double tap to sleep on statusbar
+* Status network traffic
+* Add partial/full screenshot QS tile
+* HeadsUp blacklists, add timeout option, HeadsUp snooze function
+* Add Gaming mode tile
+* Ability to disable dashboards conditions
+* Disable suggestions
+* Make roaming indicator optional
+* Allow using 4G icon instead LTE
+* Option to Display Data Disabled Indicator Icon
+* Allow to set a full gesture navbar (swipe left for back action)
+* Full nav gesture: home action on the whole bar and doubletap2sleep
+* Add three-fingers-swipe to screenshot
+* Phone ringtone setting for Multi SIM device 
+* Lockscreen clock/date styles
+* Add sammy accent clock and a variant
+* Add our shishu clock
+* Option to mute media with gesture
+* Add quick settings pull down with one finger
+* Disable Lockscreen Media Art
+* Ambient Visualizer 
+* Add Expanded Desktop QS Tile
+* Expanded Desktop Tile Reloaded
+* Add Haptic Feedback to tiles
+* Add auto brightness toggle to Quick Settings
+* QS: Back to AOSP style
+* Add ability to toggle bluetooth battery level in QS
+* Add Volume Key Answer
+* Add back increasing ring feature
+* Add Music QS Tile
+* Base: bring back screenrecord
+* Screenrecord service improvements and QSTile
+* SystemUI: Add heads up tile
+* Add VOLTE icon to Status bar
+* Add VOLTE icon toggle
+* QS: Add Reboot/Recovery QS Tile
+* SystemUI: Add tile to show volume panel
+* PM: Signature spoofing
+* Allow doubletap/longpress power to toggle torch
+* Introduce QS tile style picker
+* QSTile: Add Squaremedo from BootLeggers
+* Add Oreo QS tile styles
+* Add InkDrop QS Tile Style
+* Base: Add Cookie QS style
+* Base: Expose QS background color
+* Themes: Expose QS tiles and label colors
+* QSTiles: Add few more styles
+* Port: Wake on plug
+* Unlock keystore with fingerprint after reboot
+* Lockscreen Clock Widget Fonts
+* Base: Lockscreen Date Fonts
+* Android: Expose accent on QS Tiles
+* Quick settings panel: Set transparency
+* SystemUI: Allow theming QS with wallpaper colors
+* Base: QS: Allow coloring bg with accent
+* Custom Rounded Corner and Padding preferences
+* Base: Redo expanded volume panel for 9.x
+* Add new feature of One-hand UI Mode
+* Add Google Sound Search tile
+* SystemUI: Add AmbientDisplay tile
+* SystemUI: Add Sync tile
+* Base: SystemUI: add qs AOD tile
+* Base: incall vibration options
+* Add kill button to notification guts
+* Less boring heads up option
+* Ambient display music ticker
+* Base: Introduce SubstratumService
+* base: Add Lockscreen cover art filter
+* bringup: Fontservice
+* Enable notifications led light by default
+* Add ability to permanently hide apps from recents
+* fwb: Allow users to switch between Pie/Oreo recents
+* Immersive Recents
+* FWB: Add clock/date in recents while in fullscreen mode
+* Add membar to recents options
+* SystemUI: Bring Back Recents Styles
+* Hide arrows in network traffic indicators
+* WakelockBlocker ported by @faust93
+* AlarmsBlocker
+* Add roaming icon to statusbar blacklist
+* SystemUI: Add statusbar NFC icon
+* SystemUI: Add data saver icon to blacklist
+* SystemUI: statusbar clock date customization
+* Custom Carrier Label & Carrier Label Placement
+* SystemUI: Port forward statusbar brightness control
+* SystemUI: Allow to switch back to pre P mobile type icon style
+* Utils: Introduce method to determine countries that use Fahrenheit
+* Introduce Q style text clock
+* Add Flashlight blink on incoming calls
+* Use Auto brightness for Ambient Display
+* Add Method to detect a notch's device
+* Base: SystemUI: Add optional notch friendly VoLTE icon
+* Add support for DiracSound FX
+* Implement Aggressive Battery
+* Extended audio panel
+* Import POSP accents/themes
+* vendor: Overlay: Enable 4G+/LTE+ in Status Bar
+* VortexSettings: overlay: use vibration patterns from Pixel devices
+* Vortex: Switch to Lawnchair
+* Out own wallpaper
+* Add preference
+Accidental Touch
+* Settings: Squashed commit for Expanded Desktop
+* Settings: per-app cellular data and wifi restrictions
+* Battery stats: Display battery temperature
