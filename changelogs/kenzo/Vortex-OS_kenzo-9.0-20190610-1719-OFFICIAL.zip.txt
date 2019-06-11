@@ -1,0 +1,49 @@
+>>>> ROM Changelong <<<<
+
+*June security patch r40
+
+*4G/LTE toggle
+*VoLTE icon toggle (disabled by default, unavailable on devices with notch)
+*Quick pulldown (disabled by default)
+*Traffic Indicator (disabled, hidden unavailable on devices with notch)
+*Disable qs on lockscreen (disabled by default)
+*Add battery styles (Add Q battery style)
+*Battery pulse when low toggle (enabled by default)
+*Battery stats: Display battery temperature
+*Reset: Battery stats
+*Utils: Introduce method to determine countries that use Fahrenheit
+*LiveDisplay
+*Switch to dark theme based on time of the day
+*Pocket detection (disabled by default)
+*Double tap to sleep on statusbar and lockscreen (disabled by default)
+*Full nav gesture: home action on the whole bar and doubletap2sleep
+*Add three-fingers-swipe to screenshot
+*Ability to force full screen and ignore notch, useful for games and Netflix (inspired by MIUI)
+*Custom accents color (Added 3 more accents thanks to @SKULSHADY)
+*Add auto brightness toggle to Settings
+*Settings: Back to AOSP style
+*Add ability to toggle bluetooth battery level in Status bar
+*Less boring heads up option
+*Vibrate on connect call (disabled by default)
+*Ringtone chooser for 2nd sim card
+*FP vibration (enabled by default, AOSP behavior)
+*Screenshot sound (enabled by default, AOSP behavior)
+*Base: incall vibration options
+*Base: Nuke Now Playing
+*Lockscreen art toggle (enabled by default, AOSP behavior)
+*Port: Wake on plug
+*Vibrate on plug
+*Allow user to add/remove QS with one click
+*Sync tile
+*SystemUI: Add heads up tile
+*Caffeine tile
+*LiveDisplay and reading mode tile
+*Base: bring back screenrecord tile
+*Add partial/full screenshot QS tile
+*Expanded Desktop Tile Reloaded
+*Add Google Sound Search tile
+*Enable notifications led light by default
+
+>>>> Device Changelog <<<<
+
+Initial Build
