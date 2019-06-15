@@ -1,16 +1,16 @@
 {
          "error":false,
-         "filename":"Vortex-OS_platina-9.0-20190608-0204-OFFICIAL.zip",
-         "datetime":1559959216,
-         "size":1093685778,
-         "url":"https://sourceforge.net/projects/vortex-project/files/pie/platina/Vortex-OS_platina-9.0-20190608-0204-OFFICIAL.zip/download",
-         "filehash":"612b8b1ce43aa5a00c6d4221817acb08",
+         "filename":"Vortex-OS_platina-9.0-20190615-0509-OFFICIAL.zip",
+         "datetime":1560575345,
+         "size":1092862870,
+         "url":"https://sourceforge.net/projects/vortex-project/files/pie/platina/Vortex-OS_platina-9.0-20190615-0509-OFFICIAL.zip/download",
+         "filehash":"62469432afe4e8a472535249c64b24db",
          "version":"Pie",
-         "id":"7239ef7db215f0b3f627728dc29691d684272d1fdf68ea05a111509f4bc97e8f",
+         "id":"d06ea09fdd923332b975e1d42d20ce0bb1c6994cbb629509b37177bf7f0f2689",
          "website_url":"https://vortex-os.org",
          "news_url":"https://t.me/VortexOS",
          "donate_url":"https://paypal.me/melvingb",
-         "maintainer":"Melvin García (nextgen)",
+         "maintainer":"Melvin García",
          "maintainer_url":"https://t.me/melvingarcia",
          "forum_url":""
 }

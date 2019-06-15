@@ -1,0 +1,29 @@
+>>>> ROM Changelong <<<<
+
+June (2nd update) changelog:
+
+Base side (PE):
+
+* Theming improvements
+* Bring back night display on some devices (Additional LiveDisplay settings will be there)
+* Improved behavior of automatic theme based on time
+* PixelLauncher and some others apps updated
+* Translations updated
+
+Vortex OS side:
+
+* base: Nuke Now Playing
+* Ambient display music ticker
+* SystemUI: make QS columns count configurable
+* Add USB Tether QS Tile
+* SystemUI: statusbar clock date customization
+* StatusbarClock: date right/left position
+* SystemUI: Add visualizer feature
+* SystemUI: Ambient Visualizer
+* SystemUI: Visualizer customizations
+* Add QS header styles
+* Add Switch styles
+
+>>>> Device Changelong <<<<
+
+* None
