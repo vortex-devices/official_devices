@@ -1,0 +1,45 @@
+>>>> ROM Changelong <<<<
+
+Changelog (3rd update)
+
+* The new features were moved to the Settings section.
+* Add drawable for Private DNS
+* Add advanced battery info
+* Allow to swap volume buttons rotation based
+* Add animations to quick settings tiles
+* Add interpolators to qs tiles animation
+* Settings: Screen off animations
+* Settings: make screen off animation selection logical
+* Uptime: Move to battery page
+* Add toggle for heads up notifications
+* HeadsUp: add timeout option
+* HeadsUp: snooze function
+* Settings: Add AGPS setting menu
+* Settings: Add battery saving mode for location
+* Custom Rounded Corner and Padding preferences
+* Quick settings: Add Haptic Feedback to tiles
+* Settings: Add Volume Key Answer
+* Settings: allow switch to pre P mobile icon style
+* Custom Carrier Label & Carrier Label Placement
+* Settings: allow to force never mode for display cutout
+* SystemUI: Allow Pixel 3 live wallpapers to work in Ambient Display
+* base: Persistent settings icon on qs panel for 9.x
+* Make roaming indicator optional
+* SystemUI: Port statusbar brightness control
+* base: Option to use volume keys to control ring volume anytime
+* Live Volume Steps
+* Extended audio panel
+* Switching audio panel position
+* base: Redo expanded volume panel for 9.x
+* base: implement OP like navigation gestures
+* Ability to disable dashboard suggestions and conditions*
+* Implement expanded desktop feature
+* base: SystemUI: add qs AOD tile
+* base: add option to enable AOD on charging only
+* SystemUI: Add Gaming mode tile*
+* Add Music QS Tile
+* Add Compass tile
+* SystemUI: Add AmbientDisplay tile
+
+>>>> Device Changelog <<<<
+* None 
