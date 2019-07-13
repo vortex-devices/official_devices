@@ -1,0 +1,21 @@
+>>>> ROM Changelong <<<<
+
+* Merge July security patch r44
+* All old previous features has been added in Vortex Customizations category
+* Pixel Expererience Upstream's
+* Introduce lockscreen clock/date styles
+* base: Persistent settings icon on qs panel for 9.x 
+* Lockscreen Clock Styles: Introduce Q style text clock
+* base: Introduce FontService
+* Forward Port: Lockscreen Clock Widget Fonts
+* LockscreenCharging: squashed
+* Add On-The-Go Mode
+* Add new feature of One-hand UI Mode
+* base: Add OOS style switches
+* base: Add toggle to disable battery estimates in QS
+* SystemUI: Animate the keyguard when charging 
+* And more improvements
+
+>>>> Device Changelong <<<<
+
+* None = Stable
