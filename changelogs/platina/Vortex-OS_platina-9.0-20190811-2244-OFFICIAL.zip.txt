@@ -1,0 +1,40 @@
+>>>> ROM Changelong <<<<
+
+* Merge August Security Patch r46
+* Update default wallpaper and bootanimation
+* Add battery estimated option's and improvents
+* Add support for in-display fingerprint sensors (FOD)
+* Add Screen Stabilization + Screen Stabilization Tile
+* Added Signature spoofing
+* Allow to quickly open Running Services from QS panel
+* Add Running services icon toggle
+* Carrier Label font styles and more improvents
+* Introduce QS tile style picker
+* Add Edge Gestures + Animation's
+* Added Smart charging
+* Added Smart Pixels
+* Fixed weather client in lockscreen and add our own weather client
+* Allow users to switch between Pie/Oreo recents
+* Add grid and Go recents styles
+* Make recents grid view accept more than 8 tasks
+* Remove GApps and Pixel Launcher
+* QS status bar custom header images
+* Track Dialer, Messaging, LatinIME, Deskclock, Contacts, OmniStyle and Gallery2
+* Add Lawnchair alpha_2357
+* Wi-Fi icon Q version = credits Evo X
+
+>>>> Device Changelog <<<<
+
+* Add Mi Sounds(Dirac)
+* Update audio Configs
+* Update Notch dimens
+* Fix thermal-engine denials
+* Audio: increased call volume
+
+>>>> Kernel Changelog <<<<
+
+* Switch to Ancient Kernel 1.3
+* Merge linux 4.4.187, 4.4.188
+* Merge caf, qcacld-3.0 LA.UM.7.2.r1-07400-sdm660.0
+* Merge F2FS stable linux 4.4
+* ANDROID: overlayfs: Fix a regression
