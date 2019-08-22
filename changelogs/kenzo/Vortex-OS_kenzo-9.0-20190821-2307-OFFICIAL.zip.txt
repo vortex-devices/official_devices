@@ -1,0 +1,32 @@
+>>>> ROM Changelong <<<<
+
+* Merge August Security Patch r46
+* Update default wallpaper and bootanimation
+* Add battery estimated option's and improvents
+* Add support for in-display fingerprint sensors (FOD)
+* Add Screen Stabilization + Screen Stabilization Tile
+* Added Signature spoofing
+* Allow to quickly open Running Services from QS panel
+* Add Running services icon toggle
+* Carrier Label font styles and more improvents
+* Introduce QS tile style picker
+* Add Edge Gestures + Animation's
+* Added Smart charging
+* Added Smart Pixels
+* Fixed weather client in lockscreen and add our own weather client
+* Allow users to switch between Pie/Oreo recents
+* Add grid and Go recents styles
+* Make recents grid view accept more than 8 tasks
+* Remove GApps and Pixel Launcher
+* QS status bar custom header images
+* Track Dialer, Messaging, LatinIME, Deskclock, Contacts, OmniStyle and Gallery2
+* Add Lawnchair alpha_2357
+* Wi-Fi icon Q version = credits Evo X
+
+>>>> Device <<<<
+
+* Rebase AmolAmrit Repos
+
+>>>> Kernel <<<<
+
+* Update to Escrima Kernel: X28
